@@ -1,0 +1,13 @@
+# Ignore the projects folder
+projects/
+
+# Common files and directories to ignore
+*.log
+*.tmp
+*.temp
+node_modules/
+.env
+.DS_Store
+Thumbs.db
+*.pyc
+__pycache__/

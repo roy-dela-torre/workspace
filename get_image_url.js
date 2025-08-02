@@ -1,5 +1,5 @@
 // Select the <ul> element by its classes
-const ul = document.querySelector('ul.flx-at-700-grd-mx-4.ato-sz.ps-images');
+const ul = document.querySelector('.images');
 
 // Get all <img> elements within this <ul>
 const images = ul ? ul.querySelectorAll('img') : [];
